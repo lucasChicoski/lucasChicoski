@@ -1,5 +1,5 @@
 <h2><i>O que sabemos é uma gota, o que ignoramos é um oceano.  "Isaac Newton" 🔭</i></h2>
-<p>Olá, Galera!! Meu nome é <b>Lucas Chicoski</b>, amante da <b>ciência</b>, apaixonado pela <b>tecnologia</b> e <b>programando</b> agora! 🖥️ <p>
+<p>Olá, Galera!! Meu nome é <b>Lucas Chicoski</b>, amante de <b>ciências</b>, apaixonado pela <b>tecnologia</b> e <b>programando</b> agora! 🖥️ <p>
 <img  align="right" height="200px" border-radius="100px" src="tbbt.jfif">
 <h3>Formação 🎓</h3>
 <br/>
